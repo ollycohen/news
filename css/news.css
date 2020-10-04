@@ -1,0 +1,21 @@
+
+#top-nav{
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    background-color: pink;
+}
+
+#home{
+    background-color: violet;
+}
+
+#me-username{
+    color:#BD4C10;
+}
+
+#delete-btn{
+    background-color: red;
+}
+
